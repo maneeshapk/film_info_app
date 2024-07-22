@@ -20,6 +20,9 @@ class FilmRater extends StatefulWidget {
 }
 
 class _FilmRaterState extends State<FilmRater> {
+
+
+  
   final formKey = GlobalKey<FormState>();
   var searchData = TextEditingController();
 
